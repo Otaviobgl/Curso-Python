@@ -1,0 +1,14 @@
+A =int(input("calculo de a"))
+B =int(input("calculo de b"))
+C =int(input("calculo de c"))
+
+Delta = float( B**2)-4 * A * C
+
+if Delta <=0:
+    print("Delta é negativo, não há raízes reais.")
+
+else: 
+    X1 = -B+Delta**0.5 / (2*A)
+    X2 = -B-Delta**0.5 / (2*A)
+    print(f"As raízes são: X1 = {X1} e X2 = {X2}")
+2

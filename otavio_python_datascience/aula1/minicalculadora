@@ -1,0 +1,13 @@
+"""
+Calculos em Pytho!
++ -> Soma
+- -> Subtração
+* -> Multiplicação
+/ -> Divisão
+** -> Potenciação
+// -> Arredonda a divisão
+% -> Restp
+ Estrutura de decisão
+== Igualdade
+=<  >= > < Menor igual, maior igual,maior,menor
+"""
